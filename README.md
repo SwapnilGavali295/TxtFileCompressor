@@ -39,9 +39,12 @@ This readme file provides an overview of the project, explains its features, des
 To use the Huffman coding project to compress a file, follow these steps:
 1. To run this project you need to create an executable file.
 2. Compile the program and run it from the command line, providing the input file name and the desired name for the compressed output file as command-line arguments.
-./main input_file.txt compressed_file.huf
+3. For Compressing
+![Screenshot 2023-06-20 024719](https://github.com/SwapnilGavali295/TxtFileCompressor/assets/137003175/475041de-26be-4238-8f69-7911ec8c32e6)
 
-3. Note: Make sure to replace the path to the "huffman.hpp" header file with the correct path in your system. Additionally, ensure that you provide the correct file names as command-line arguments when running the program.
+4. For Decompressing
+
+5. Note: Make sure to replace the path to the "huffman.hpp" header file with the correct path in your system. Additionally, ensure that you provide the correct file names as command-line arguments when running the program.
 ## Code Structure 
 The Huffman coding project follows a structured and organized code architecture to ensure modularity, readability, and maintainability. Here is an overview of the code structure:
 
